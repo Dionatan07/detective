@@ -17,6 +17,6 @@ Curso este que tive a honra de participar com a plataforma de cursos online <str
 - [x] Uso da estrutura condicional SWITCH
 - [x] Lógica da programação
 
-------------
+-------------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
